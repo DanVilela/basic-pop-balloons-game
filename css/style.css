@@ -15,20 +15,20 @@
 #time {
      width: 140px;
      height: 132px;
-     background-image: url("/img/cronometro.png");
      text-align: center;
+     background-image: url('../img/cronometro.png');
 }
 
 
-#cronometro{
+#cronometro {
      color: red;
      font-size:30px;
-
+    
 }
 
 #cenario {
     float:left; 
     width: 600px;
     height:500px;
-    background-image: url("/img/cenario3.jpg");
+    background-image: url('../img/cenario.jpg');
 }
